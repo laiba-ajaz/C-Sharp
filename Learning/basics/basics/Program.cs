@@ -61,11 +61,11 @@ class Program
             }
         }
 
-        //Console.WriteLine("Enter your name:");
-        //String UserName = Console.ReadLine();
-        //Console.WriteLine($"Hello, {UserName}!");
-        //Console.WriteLine("Enter your age:");
-        //int UserAge = Console.ReadLine();
-        //Console.WriteLine($"Your name is {UserName} and your age is {UserAge}");
+        Console.WriteLine("Enter your name:");
+        String UserName = Console.ReadLine();
+        Console.WriteLine($"Hello, {UserName}!");
+        Console.WriteLine("Enter your age:");
+        int UserAge = Console.ReadLine();
+        Console.WriteLine($"Your name is {UserName} and your age is {UserAge}");
     }
 }
